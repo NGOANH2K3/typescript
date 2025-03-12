@@ -1,4 +1,4 @@
-"use strict";
+
 const inFor = {
     id: 1,
     name: 'ngoanh',

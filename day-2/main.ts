@@ -178,7 +178,7 @@ console.log(sum1(2,3))
 // function sum2(a:number, b:number):string{
 //     return a + b.toString()
 // }
-// console.log(sum1(2,3))
+// console.log(sum2(2,3))
 ///////////////////////////////////////////////////////////////
 
 
@@ -210,8 +210,9 @@ enum Status2 {
     
     const stats1: Status2 = Status2.PENDING;
     const stats2: Status2 = 1;
-    const stats3: Status2 = 2;
+    const stats3: Status2 = 3;
    
     console.log(Status2[0]); // 'PENDING'
     console.log(Status2['DONE']); // 2
 
+        
